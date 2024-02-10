@@ -1,6 +1,6 @@
 import 'dart:ui';
 
-import 'package:fast_barcode_scanner/src/camera_controller.dart';
+import 'package:ss_barcode_scanner/src/camera_controller.dart';
 import 'package:fast_barcode_scanner_platform_interface/fast_barcode_scanner_platform_interface.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';

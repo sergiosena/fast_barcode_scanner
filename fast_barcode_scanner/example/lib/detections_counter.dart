@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'package:fast_barcode_scanner_example/scanner_screen.dart';
+import 'package:ss_barcode_scanner/scanner_screen.dart';
 import 'package:flutter/material.dart';
 
 class DetectionsCounter extends StatefulWidget {

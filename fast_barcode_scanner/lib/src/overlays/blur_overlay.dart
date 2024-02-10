@@ -1,6 +1,6 @@
 import 'dart:ui';
 
-import 'package:fast_barcode_scanner/src/camera_controller.dart';
+import 'package:ss_barcode_scanner/src/camera_controller.dart';
 import 'package:flutter/material.dart';
 
 class BlurPreviewOverlay extends StatelessWidget {
